@@ -1,9 +1,9 @@
-# OAuth Authentication System - Project Structure
+# OAuth Authentication Examples - Project Structure
 
 ## 📁 Directory Structure
 
 ```
-oauth-auth-system/
+oauth-auth-examples/
 ├── client/                      # Frontend application
 │   ├── public/
 │   │   ├── index.html          # Main HTML file
@@ -73,8 +73,8 @@ oauth-auth-system/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/oauth-auth-system.git
-cd oauth-auth-system
+git clone https://github.com/dnoice/oauth-auth-examples.git
+cd oauth-auth-examples
 ```
 
 2. **Install dependencies**
